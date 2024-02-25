@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\HP\OneDrive\Desktop\Java for Placement\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3316466471.index
+4008053420.index

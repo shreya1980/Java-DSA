@@ -1,0 +1,15 @@
+package com.shreya;
+
+public class Factorial {
+	public static int findFactorial(int a) {
+		for(a=i;a>=1;a--) {
+			a = a*i;
+		}
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
