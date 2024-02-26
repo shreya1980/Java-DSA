@@ -1,0 +1,19 @@
+package com.exercise1;
+import java.util.*;
+
+public class CircumferenceOfCircle {
+	public static void printCircumference(float r) {
+		float c = 2*r*(22/7);
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		float r = sc.nextFloat();
+		printCircumference(r);
+		
+
+	}
+
+}
